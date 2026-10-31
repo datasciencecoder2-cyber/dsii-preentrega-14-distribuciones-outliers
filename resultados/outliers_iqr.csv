@@ -1,0 +1,16 @@
+registro_ref,day,time,size,total_bill,tip,outlier_total_bill,outlier_tip
+171,Sat,Dinner,3,50.81,10.0,True,True
+213,Sat,Dinner,4,48.33,9.0,True,True
+60,Sat,Dinner,4,48.27,6.73,True,True
+157,Sun,Dinner,6,48.17,5.0,True,False
+183,Sun,Dinner,3,45.35,3.5,True,False
+103,Sat,Dinner,3,44.3,2.5,True,False
+198,Thur,Lunch,4,43.11,5.0,True,False
+143,Thur,Lunch,5,41.19,5.0,True,False
+185,Sun,Dinner,2,40.55,3.0,True,False
+24,Sat,Dinner,4,39.42,7.58,False,True
+142,Thur,Lunch,6,34.3,6.7,False,True
+48,Sun,Dinner,4,32.4,6.0,False,True
+240,Sat,Dinner,3,29.03,5.92,False,True
+215,Sat,Dinner,3,28.17,6.5,False,True
+184,Sun,Dinner,4,23.17,6.5,False,True

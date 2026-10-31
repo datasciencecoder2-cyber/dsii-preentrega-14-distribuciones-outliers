@@ -1,0 +1,20 @@
+test_01_244_filas_y_siete_variables_originales (test_analisis.TestPreentrega14.test_01_244_filas_y_siete_variables_originales) ... ok
+test_02_sin_nulos (test_analisis.TestPreentrega14.test_02_sin_nulos) ... ok
+test_03_categorias_observadas (test_analisis.TestPreentrega14.test_03_categorias_observadas) ... ok
+test_04_medidas_numericas_y_curtosis (test_analisis.TestPreentrega14.test_04_medidas_numericas_y_curtosis) ... ok
+test_05_iqr_cuenta (test_analisis.TestPreentrega14.test_05_iqr_cuenta) ... ok
+test_06_iqr_propina (test_analisis.TestPreentrega14.test_06_iqr_propina) ... ok
+test_07_atipicos_solapados (test_analisis.TestPreentrega14.test_07_atipicos_solapados) ... ok
+test_08_una_fila_por_registro (test_analisis.TestPreentrega14.test_08_una_fila_por_registro) ... ok
+test_09_no_elimina_duplicados_sin_id_real (test_analisis.TestPreentrega14.test_09_no_elimina_duplicados_sin_id_real) ... ok
+test_10_no_modifica_entrada (test_analisis.TestPreentrega14.test_10_no_modifica_entrada) ... ok
+test_11_rechaza_esquema_incompleto (test_analisis.TestPreentrega14.test_11_rechaza_esquema_incompleto) ... ok
+test_12_rechaza_factor_ilegal (test_analisis.TestPreentrega14.test_12_rechaza_factor_ilegal) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.020s
+
+OK
+
+Validación del notebook: 9 celdas de código ejecutadas, sin errores.
+Dataset: 244 filas; IQR total_bill: 9; IQR tip: 9; unicos: 15; simultaneos: 3.
